@@ -1,0 +1,482 @@
+
+accuracy 1.0accuracy 0.5accuracy 0.5accuracy 0.5accuracy 1.0accuracy 1.0accuracy 1.0
+accuracy 1.0accuracy 0.5class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+
+
+
+
+accuracy 1.0accuracy 0.5class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+
+
+
+
+accuracy 1.0accuracy 0.5class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+class,precision,recall,f1_score,support
+     1,1.0,0.5,0.67,2.0
+
+
+
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+accuracy 0.0accuracy 1.0
+
+
+
+
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+accuracy 0.0accuracy 0.25class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+     2,0.0,0.0,0.0,0.0
+class,precision,recall,f1_score,support
+     1,1.0,0.25,0.4,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     0,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+     7,0.0,0.0,0.0,0.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.67,0.67,0.67,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.67,0.67,0.67,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.5,0.33,0.4,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.5,0.33,0.4,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.33,1.0,0.5,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+accuracy 0.0accuracy 0.0class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     3,0.0,0.0,0.0,0.0
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     4,0.0,0.0,0.0,1.0
+     5,0.0,0.0,0.0,3.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+accuracy 0.0accuracy 1.0class,precision,recall,f1_score,support
+     1,1.0,0.75,0.86,4.0
+class,precision,recall,f1_score,support
+     1,1.0,0.25,0.4,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,4.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+accuracy 0.57accuracy 0.57class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.98,0.72,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.98,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.56,0.93,0.7,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.5,0.18,0.27,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.59,0.93,0.72,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+accuracy 0.57accuracy 0.57class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.98,0.72,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.98,0.72,57.0
+     5,0.5,0.07,0.12,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.56,0.95,0.7,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.96,0.72,57.0
+     5,0.5,0.13,0.21,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.93,0.71,57.0
+     5,0.17,0.07,0.1,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+accuracy 0.57accuracy 0.57class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.98,0.72,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.98,0.73,57.0
+     5,0.33,0.07,0.11,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.95,0.71,57.0
+     5,0.4,0.13,0.2,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.95,0.72,57.0
+     5,0.29,0.13,0.18,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,1.0,0.73,57.0
+     5,0.0,0.0,0.0,15.0
+accuracy 0.57accuracy 0.57class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.98,0.72,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.57,0.96,0.71,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.56,0.93,0.7,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.0,0.0,0.0,15.0
+     4,0.58,0.93,0.71,57.0
+     5,0.0,0.0,0.0,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,11.0
+     3,0.1,0.07,0.08,15.0
+     4,0.57,0.88,0.69,57.0
+     5,0.5,0.07,0.12,15.0
+class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,5.0
+     3,0.5,0.11,0.18,9.0
+     4,0.58,1.0,0.74,28.0
+     5,0.0,0.0,0.0,7.0
+accuracy 0.58accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,5.0
+     3,0.0,0.0,0.0,9.0
+     4,0.0,0.0,0.0,28.0
+     5,0.0,0.0,0.0,7.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,5.0
+     3,0.0,0.0,0.0,9.0
+     4,0.0,0.0,0.0,28.0
+     5,0.0,0.0,0.0,7.0
+class,precision,recall,f1_score,support
+     1,0.06,1.0,0.12,1.0
+     2,0.0,0.0,0.0,5.0
+     3,0.0,0.0,0.0,9.0
+     4,0.0,0.0,0.0,28.0
+     5,0.0,0.0,0.0,7.0
+class,precision,recall,f1_score,support
+     1,0.05,1.0,0.1,1.0
+     2,0.0,0.0,0.0,5.0
+     3,0.0,0.0,0.0,9.0
+     4,0.0,0.0,0.0,28.0
+     5,0.0,0.0,0.0,7.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,5.0
+     3,0.0,0.0,0.0,9.0
+     4,0.0,0.0,0.0,28.0
+     5,0.0,0.0,0.0,7.0
+class,precision,recall,f1_score,support
+     2,0.5,0.39,0.44,23.0
+     3,0.21,0.25,0.23,12.0
+     4,0.17,0.5,0.25,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.3accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,1.0,0.04,0.08,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,1.0,0.13,0.23,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.75,0.13,0.22,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+class,precision,recall,f1_score,support
+     2,0.5,0.39,0.44,23.0
+     3,0.21,0.25,0.23,12.0
+     4,0.17,0.5,0.25,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.3accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.25,0.08,0.12,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.02class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.0class,precision,recall,f1_score,support
+     2,0.5,0.39,0.44,23.0
+     3,0.21,0.25,0.23,12.0
+     4,0.17,0.5,0.25,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.3accuracy 0.0class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,1.0,0.12,0.22,8.0
+accuracy 0.02class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,0.0,0.0,0.0,23.0
+     3,0.0,0.0,0.0,12.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,8.0
+accuracy 0.0class,precision,recall,f1_score,support
+     2,0.0,0.0,0.0,1.0
+     3,0.54,0.88,0.67,8.0
+     4,0.67,0.33,0.44,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.5294117647058824accuracy 0.0class,precision,recall,f1_score,support
+     1,0.5,1.0,0.67,1.0
+     2,0.0,0.0,0.0,1.0
+     3,1.0,0.12,0.22,8.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.11764705882352941class,precision,recall,f1_score,support
+     1,0.0,0.0,0.0,1.0
+     2,1.0,1.0,1.0,1.0
+     3,0.0,0.0,0.0,8.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.058823529411764705class,precision,recall,f1_score,support
+     1,0.25,1.0,0.4,1.0
+     2,0.5,1.0,0.67,1.0
+     3,0.0,0.0,0.0,8.0
+     4,1.0,0.17,0.29,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.17647058823529413class,precision,recall,f1_score,support
+     1,0.11,1.0,0.2,1.0
+     2,0.0,0.0,0.0,1.0
+     3,0.0,0.0,0.0,8.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.058823529411764705class,precision,recall,f1_score,support
+     1,0.07,1.0,0.12,1.0
+     2,0.0,0.0,0.0,1.0
+     3,0.0,0.0,0.0,8.0
+     4,0.0,0.0,0.0,6.0
+     5,0.0,0.0,0.0,1.0
+accuracy 0.058823529411764705
