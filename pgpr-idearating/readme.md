@@ -1,4 +1,4 @@
-# PGPR
+# HybridEval
 
 ### Installation
 This package requires python3. To install python3, please check the official python website
